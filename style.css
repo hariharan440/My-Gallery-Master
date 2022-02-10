@@ -1,0 +1,38 @@
+body{
+    
+}
+
+#profile{
+    text-align: center;
+    margin: 10px;
+}
+
+
+#profile img{
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+#profile button{
+    background-color:whitesmoke;
+    color: black;
+    border-radius: 10px;
+    border-color: whitesmoke;
+    padding: 10px;
+    justify-content: center;
+    margin: 8px;
+
+}
+
+.img-fluid{
+    border-radius: 10px;
+}
+
+h5{
+    padding-top: 10px;
+}
+
+p{
+    color: gray;
+}
